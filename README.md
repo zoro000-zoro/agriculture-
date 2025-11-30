@@ -288,10 +288,4 @@
     document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener('click',e=>{const t=document.querySelector(a.getAttribute('href')); if(t){e.preventDefault(); t.scrollIntoView({behavior:'smooth',block:'start'})}})});
   </script>
 </body>
-</html>                 <img width="1885" height="931" alt="1 5" src="https://github.com/user-attachments/assets/7712a815-c87a-47ac-a6f4-d98a8e69e763" />
-<img width="1893" height="932" alt="1 4" src="https://github.com/user-attachments/assets/793dd74e-c253-4b3b-bf90-5d6a40c34ca9" />
-<img width="1872" height="931" alt="1 3" src="https://github.com/user-attachments/assets/6743123f-c14c-4ce8-93da-a226bf3ac9c9" />
-<img width="1891" height="921" alt="1 2" src="https://github.com/user-attachments/assets/ec15027d-c216-4031-a244-1583ebda92dc" />
-
-<img width="1897" height="932" alt="1 1" src="https://github.com/user-attachments/assets/9c7eeb6a-858e-43e7-9311-bc7299370bc7" />
-
+</html>                 <
